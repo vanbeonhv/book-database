@@ -599,6 +599,15 @@
       "publisher": "Ha noi",
       "quantity": "15",
       "id": 40
+    },
+    {
+      "isbn": "22223",
+      "title": "Rung Than Khoc",
+      "author": "Thuc Linh",
+      "publicYear": "1993",
+      "publisher": "Ha noi",
+      "quantity": "15",
+      "id": 41
     }
   ]
 }
