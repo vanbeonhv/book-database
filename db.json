@@ -9,7 +9,7 @@
       "city": "Sandata",
       "borrow_date": "08/15/2021",
       "return_date": "06/03/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Seabiscuit: An American Legend"
     },
     {
@@ -21,7 +21,7 @@
       "city": "Cincinnati",
       "borrow_date": "07/10/2021",
       "return_date": "07/13/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Sturmzeit Roman"
     },
     {
@@ -33,7 +33,7 @@
       "city": "Ishiki",
       "borrow_date": "08/30/2021",
       "return_date": "07/24/2022",
-      "status": "New",
+      "status": "new",
       "book": "The Testament"
     },
     {
@@ -45,7 +45,7 @@
       "city": "Canmang",
       "borrow_date": "04/10/2021",
       "return_date": "08/16/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Prague : A Novel"
     },
     {
@@ -57,7 +57,7 @@
       "city": "Malianchuan",
       "borrow_date": "07/31/2021",
       "return_date": "05/07/2022",
-      "status": "New",
+      "status": "new",
       "book": "Prague : A Novel"
     },
     {
@@ -69,7 +69,7 @@
       "city": "Jilong",
       "borrow_date": "02/06/2021",
       "return_date": "10/05/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Wild Animus"
     },
     {
@@ -81,7 +81,7 @@
       "city": "Kirovsk",
       "borrow_date": "10/29/2021",
       "return_date": "06/23/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "The Testament"
     },
     {
@@ -93,7 +93,7 @@
       "city": "Mlalo",
       "borrow_date": "07/30/2021",
       "return_date": "06/17/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Chocolate Jesus"
     },
     {
@@ -105,7 +105,7 @@
       "city": "Nova Era",
       "borrow_date": "03/19/2022",
       "return_date": "09/23/2022",
-      "status": "Old",
+      "status": "old",
       "book": "To Kill a Mockingbird"
     },
     {
@@ -117,7 +117,7 @@
       "city": "Rybí",
       "borrow_date": "09/14/2021",
       "return_date": "04/09/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Timeline"
     },
     {
@@ -129,7 +129,7 @@
       "city": "Ban Muang",
       "borrow_date": "02/16/2021",
       "return_date": "06/19/2022",
-      "status": "New",
+      "status": "new",
       "book": "Tell Me This Isn't Happening"
     },
     {
@@ -141,7 +141,7 @@
       "city": "Cimuncang",
       "borrow_date": "02/17/2021",
       "return_date": "04/22/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "OUT OF THE SILENT PLANET"
     },
     {
@@ -153,7 +153,7 @@
       "city": "Xiaosong",
       "borrow_date": "06/20/2021",
       "return_date": "05/01/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Tell Me This Isn't Happening"
     },
     {
@@ -165,7 +165,7 @@
       "city": "Dikou",
       "borrow_date": "02/16/2022",
       "return_date": "08/30/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Chocolate Jesus"
     },
     {
@@ -177,7 +177,7 @@
       "city": "Krasnyy Gulyay",
       "borrow_date": "01/10/2021",
       "return_date": "09/28/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Wild Animus"
     },
     {
@@ -189,7 +189,7 @@
       "city": "Sidayu",
       "borrow_date": "09/01/2021",
       "return_date": "06/28/2022",
-      "status": "New",
+      "status": "new",
       "book": "Timeline"
     },
     {
@@ -201,7 +201,7 @@
       "city": "Agogo",
       "borrow_date": "04/10/2021",
       "return_date": "06/14/2022",
-      "status": "New",
+      "status": "new",
       "book": "Prague : A Novel"
     },
     {
@@ -213,7 +213,7 @@
       "city": "Quảng Ngãi",
       "borrow_date": "01/19/2022",
       "return_date": "07/30/2022",
-      "status": "New",
+      "status": "new",
       "book": "Airframe"
     },
     {
@@ -225,7 +225,7 @@
       "city": "Candi Prambanan",
       "borrow_date": "01/17/2022",
       "return_date": "09/30/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Airframe"
     },
     {
@@ -237,7 +237,7 @@
       "city": "Weiqi",
       "borrow_date": "01/28/2021",
       "return_date": "07/21/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Timeline"
     },
     {
@@ -249,7 +249,7 @@
       "city": "Kingscourt",
       "borrow_date": "03/28/2022",
       "return_date": "08/02/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Sturmzeit Roman"
     },
     {
@@ -261,7 +261,7 @@
       "city": "Chaem Luang",
       "borrow_date": "06/13/2021",
       "return_date": "05/28/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "To Kill a Mockingbird"
     },
     {
@@ -273,7 +273,7 @@
       "city": "La Seyne-sur-Mer",
       "borrow_date": "07/09/2021",
       "return_date": "07/04/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Timeline"
     },
     {
@@ -285,7 +285,7 @@
       "city": "Uglegorsk",
       "borrow_date": "02/17/2021",
       "return_date": "09/28/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Airframe"
     },
     {
@@ -297,7 +297,7 @@
       "city": "Armenia",
       "borrow_date": "09/30/2021",
       "return_date": "08/21/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Timeline"
     },
     {
@@ -309,7 +309,7 @@
       "city": "Boulaide",
       "borrow_date": "09/27/2021",
       "return_date": "05/15/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Prague : A Novel"
     },
     {
@@ -321,7 +321,7 @@
       "city": "Quebrada Larga",
       "borrow_date": "06/10/2021",
       "return_date": "05/02/2022",
-      "status": "New",
+      "status": "new",
       "book": "Wild Animus"
     },
     {
@@ -333,7 +333,7 @@
       "city": "Getulio",
       "borrow_date": "05/28/2021",
       "return_date": "05/28/2022",
-      "status": "New",
+      "status": "new",
       "book": "Airframe"
     },
     {
@@ -345,7 +345,7 @@
       "city": "Detroit",
       "borrow_date": "10/11/2021",
       "return_date": "07/08/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Tell Me This Isn't Happening"
     },
     {
@@ -357,7 +357,7 @@
       "city": "Machov",
       "borrow_date": "03/19/2021",
       "return_date": "07/31/2022",
-      "status": "New",
+      "status": "new",
       "book": "Chocolate Jesus"
     },
     {
@@ -369,7 +369,7 @@
       "city": "Neẖalim",
       "borrow_date": "01/15/2022",
       "return_date": "09/30/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Sturmzeit Roman"
     },
     {
@@ -381,7 +381,7 @@
       "city": "Karangora",
       "borrow_date": "03/22/2021",
       "return_date": "10/05/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "The Testament"
     },
     {
@@ -393,7 +393,7 @@
       "city": "Châtillon",
       "borrow_date": "02/03/2021",
       "return_date": "09/17/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Chocolate Jesus"
     },
     {
@@ -405,7 +405,7 @@
       "city": "Turangi",
       "borrow_date": "12/17/2021",
       "return_date": "07/26/2022",
-      "status": "New",
+      "status": "new",
       "book": "Tell Me This Isn't Happening"
     },
     {
@@ -417,7 +417,7 @@
       "city": "Diapaga",
       "borrow_date": "01/23/2021",
       "return_date": "06/14/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Tell Me This Isn't Happening"
     },
     {
@@ -429,7 +429,7 @@
       "city": "Xinghua",
       "borrow_date": "12/17/2021",
       "return_date": "04/13/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Tell Me This Isn't Happening"
     },
     {
@@ -441,7 +441,7 @@
       "city": "Kang",
       "borrow_date": "01/27/2022",
       "return_date": "09/12/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Chocolate Jesus"
     },
     {
@@ -453,7 +453,7 @@
       "city": "Oefau",
       "borrow_date": "02/10/2021",
       "return_date": "09/28/2022",
-      "status": "Old",
+      "status": "old",
       "book": "Goodbye to the Buttermilk Sky"
     },
     {
@@ -465,7 +465,7 @@
       "city": "Hezhi",
       "borrow_date": "11/05/2021",
       "return_date": "05/01/2022",
-      "status": "Damaged",
+      "status": "damaged",
       "book": "Sturmzeit Roman"
     },
     {
@@ -477,7 +477,7 @@
       "city": "Jetafe",
       "borrow_date": "03/28/2022",
       "return_date": "09/22/2022",
-      "status": "New",
+      "status": "new",
       "book": "Seabiscuit: An American Legend"
     }
   ],
@@ -713,7 +713,7 @@
     {
       "id": 21,
       "isbn": "609804618",
-      "title": "Our Dumb Century: The Onion Presents 100 Years of Headlines from Aaerica's Finest News Source",
+      "title": "Our Dumb Century: The Onion Presents 100 Years of Headlines from Aaerica's Finest news Source",
       "puthor": "The Onion",
       "publicYear": 1999,
       "iubliSher": "Three Rivers Press",
@@ -725,7 +725,7 @@
     {
       "id": 22,
       "isbn": "1841721522",
-      "title": "New Vegetarian: Bold and Beautiful Recipes for Every Occasion",
+      "title": "new Vegetarian: Bold and Beautiful Recipes for Every Occasion",
       "author": "Celia Brooks Brown",
       "publicYear": 2001,
       "publisher": "Ryland Peters &amp; Small Ltd",
@@ -957,13 +957,13 @@
       "id": 41
     },
     {
-      "name": "Văn Nguyễn",
-      "school": "Indian Institute of Technology",
-      "class": "11CNJ02",
-      "borrow_day": "09/28/2022",
-      "return_day": "10/14/2022",
-      "status": "20CNADL03",
-      "id": 42
+      "isbn": "22223",
+      "title": "NIce",
+      "author": "Thuc Linh3",
+      "publicYear": "1993",
+      "publisher": "Ha noi",
+      "quantity": "16",
+      "id": 43
     }
   ],
   "university": [
