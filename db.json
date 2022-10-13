@@ -479,6 +479,17 @@
       "return_date": "09/22/2022",
       "status": "New",
       "book": "Seabiscuit: An American Legend"
+    },
+    {
+      "payload": {
+        "name": "Nguyễn Thị Mai",
+        "school": "Stanford University",
+        "book": "To Kill a Mockingbird",
+        "borrow_date": "2022-07-07",
+        "return_date": "2022-10-24",
+        "status": "11CNJ02"
+      },
+      "id": 41
     }
   ],
   "books": [
