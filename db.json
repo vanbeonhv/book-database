@@ -792,7 +792,7 @@
       "imageS": "http://images.amazon.com/images/P/0375406328.01.THUMBZZZ.jpg",
       "imageM": "http://images.amazon.com/images/P/0375406328.01.MZZZZZZZ.jpg",
       "imageL": "http://images.amazon.com/images/P/0375406328.01.LZZZZZZZ.jpg",
-      "quantity": 12
+      "quantity": "16"
     },
     {
       "id": 38,
@@ -824,7 +824,7 @@
       "author": "Tony morning",
       "publicYear": "1993",
       "publisher": "Ha noi",
-      "quantity": "15",
+      "quantity": "16",
       "id": 40
     }
   ]
