@@ -481,14 +481,12 @@
       "book": "Seabiscuit: An American Legend"
     },
     {
-      "payload": {
-        "name": "Nguyễn Thị Mai",
-        "school": "Stanford University",
-        "book": "To Kill a Mockingbird",
-        "borrow_date": "2022-07-07",
-        "return_date": "2022-10-24",
-        "status": "11CNJ02"
-      },
+      "name": "Văn Nguyễn",
+      "school": "Stanford University",
+      "book": "To Kill a Mockingbird",
+      "borrow_date": "09/29/2022",
+      "return_date": "2022-10-14",
+      "status": "new",
       "id": 41
     }
   ],
@@ -960,21 +958,12 @@
     },
     {
       "isbn": "22223",
-      "title": "Rung Than Khoc",
+      "title": "Rung Than Khoc3333",
       "author": "Thuc Linh",
       "publicYear": "1993",
       "publisher": "Ha noi",
       "quantity": "15",
       "id": 41
-    },
-    {
-      "isbn": "22223",
-      "title": "NIce",
-      "author": "Thuc Linh3",
-      "publicYear": "1993",
-      "publisher": "Ha noi",
-      "quantity": "16",
-      "id": 43
     }
   ],
   "university": [
@@ -984,5 +973,28 @@
     "University of Oxford",
     "Imperial College London",
     "Harvard University"
+  ],
+  "login": [
+    {
+      "username": "admin@gmail.com",
+      "password": "letmein",
+      "name": "Selena",
+      "role": "admin",
+      "img": "https://toigingiuvedep.vn/wp-content/uploads/2022/05/hinh-gai-trung-quoc-deo-bang-do-400x600.jpg"
+    },
+    {
+      "username": "manager1@gmail.com",
+      "password": "letmein",
+      "name": "Lia Kim",
+      "role": "manager",
+      "img": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/hinh-anh-gai-xinh-de-thuong-nhat-1-600x600.jpg"
+    },
+    {
+      "username": "manager2@gmail.com",
+      "password": "letmein",
+      "name": "Wanda",
+      "role": "manager",
+      "img": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/anh-gai-xinh-de-thuong-dang-yeu-439x600.jpg"
+    }
   ]
 }
