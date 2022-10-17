@@ -471,14 +471,23 @@
     {
       "id": 40,
       "name": "Babette Tatem",
-      "school": "University of Cambridge",
+      "school": "University of Oxford",
       "email": "btatem13@photobucket.com",
       "phone_number": "145-342-1052",
       "city": "Jetafe",
-      "borrow_date": "03/28/2022",
-      "return_date": "09/22/2022",
+      "borrow_date": "10/12/2022",
+      "return_date": "10/15/2022",
       "status": "new",
       "book": "Seabiscuit: An American Legend"
+    },
+    {
+      "name": "Tommy",
+      "school": "University of Oxford",
+      "book": "To Kill a Mockingbird",
+      "borrow_date": "10/21/2022",
+      "return_date": "10/18/2022",
+      "status": "new",
+      "id": 41
     }
   ],
   "books": [
@@ -958,8 +967,8 @@
     },
     {
       "isbn": "22223",
-      "title": "NIce",
-      "author": "Thuc Linh3",
+      "title": "Nice xu",
+      "author": "Thuc Linh Hay",
       "publicYear": "1993",
       "publisher": "Ha noi",
       "quantity": "16",
