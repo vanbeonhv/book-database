@@ -324,7 +324,7 @@
   "borrow": [
     {
       "id": 1,
-      "name": "Imelda Bosnell",
+      "studentName": "Imelda Bosnell",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "08/15/2021",
       "return_date": "06/03/2022",
@@ -333,7 +333,7 @@
     },
     {
       "id": 2,
-      "name": "Dun Piatkowski",
+      "studentName": "Dun Piatkowski",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "07/10/2021",
       "return_date": "07/13/2022",
@@ -342,7 +342,7 @@
     },
     {
       "id": 3,
-      "name": "Sib Miell",
+      "studentName": "Sib Miell",
       "school": "University of Cambridge",
       "borrow_date": "08/30/2021",
       "return_date": "07/24/2022",
@@ -351,7 +351,7 @@
     },
     {
       "id": 4,
-      "name": "Doe Boik",
+      "studentName": "Doe Boik",
       "school": "Imperial College London",
       "borrow_date": "04/10/2021",
       "return_date": "08/16/2022",
@@ -360,7 +360,7 @@
     },
     {
       "id": 5,
-      "name": "Weylin Shipperbottom",
+      "studentName": "Weylin Shipperbottom",
       "school": "University of Cambridge",
       "borrow_date": "07/31/2021",
       "return_date": "05/07/2022",
@@ -369,7 +369,7 @@
     },
     {
       "id": 6,
-      "name": "Seana Garnsey",
+      "studentName": "Seana Garnsey",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "02/06/2021",
       "return_date": "10/05/2022",
@@ -378,7 +378,7 @@
     },
     {
       "id": 7,
-      "name": "Gordon Yerborn",
+      "studentName": "Gordon Yerborn",
       "school": "Stanford University",
       "borrow_date": "10/29/2021",
       "return_date": "06/23/2022",
@@ -387,7 +387,7 @@
     },
     {
       "id": 8,
-      "name": "Adrian Abelov",
+      "studentName": "Adrian Abelov",
       "school": "University of Oxford",
       "borrow_date": "07/30/2021",
       "return_date": "06/17/2022",
@@ -396,7 +396,7 @@
     },
     {
       "id": 9,
-      "name": "Celia Batsford",
+      "studentName": "Celia Batsford",
       "school": "Stanford University",
       "borrow_date": "03/19/2022",
       "return_date": "09/23/2022",
@@ -405,7 +405,7 @@
     },
     {
       "id": 10,
-      "name": "Happy Coxhead",
+      "studentName": "Happy Coxhead",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "09/14/2021",
       "return_date": "04/09/2022",
@@ -414,7 +414,7 @@
     },
     {
       "id": 11,
-      "name": "Andy Stannard",
+      "studentName": "Andy Stannard",
       "school": "Stanford University",
       "borrow_date": "02/16/2021",
       "return_date": "06/19/2022",
@@ -423,7 +423,7 @@
     },
     {
       "id": 12,
-      "name": "Alfi Sabey",
+      "studentName": "Alfi Sabey",
       "school": "University of Oxford",
       "borrow_date": "02/17/2021",
       "return_date": "04/22/2022",
@@ -432,7 +432,7 @@
     },
     {
       "id": 13,
-      "name": "Kelly Stennings",
+      "studentName": "Kelly Stennings",
       "school": "Stanford University",
       "borrow_date": "06/20/2021",
       "return_date": "05/01/2022",
@@ -441,7 +441,7 @@
     },
     {
       "id": 14,
-      "name": "Kyla Tailour",
+      "studentName": "Kyla Tailour",
       "school": "Imperial College London",
       "borrow_date": "02/16/2022",
       "return_date": "08/30/2022",
@@ -450,7 +450,7 @@
     },
     {
       "id": 15,
-      "name": "Erastus Yesson",
+      "studentName": "Erastus Yesson",
       "school": "Harvard University",
       "borrow_date": "01/10/2021",
       "return_date": "09/28/2022",
@@ -459,7 +459,7 @@
     },
     {
       "id": 16,
-      "name": "Kaylyn Bodycombe",
+      "studentName": "Kaylyn Bodycombe",
       "school": "University of Cambridge",
       "borrow_date": "09/01/2021",
       "return_date": "06/28/2022",
@@ -468,7 +468,7 @@
     },
     {
       "id": 17,
-      "name": "Addia Carrivick",
+      "studentName": "Addia Carrivick",
       "school": "Harvard University",
       "borrow_date": "04/10/2021",
       "return_date": "06/14/2022",
@@ -477,7 +477,7 @@
     },
     {
       "id": 18,
-      "name": "Ado Fair",
+      "studentName": "Ado Fair",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "01/19/2022",
       "return_date": "07/30/2022",
@@ -486,7 +486,7 @@
     },
     {
       "id": 19,
-      "name": "Kerstin Reddin",
+      "studentName": "Kerstin Reddin",
       "school": "Imperial College London",
       "borrow_date": "01/17/2022",
       "return_date": "09/30/2022",
@@ -495,7 +495,7 @@
     },
     {
       "id": 20,
-      "name": "Suzann Sieb",
+      "studentName": "Suzann Sieb",
       "school": "Imperial College London",
       "borrow_date": "01/28/2021",
       "return_date": "07/21/2022",
@@ -504,7 +504,7 @@
     },
     {
       "id": 21,
-      "name": "Hamil Fairman",
+      "studentName": "Hamil Fairman",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "03/28/2022",
       "return_date": "08/02/2022",
@@ -513,7 +513,7 @@
     },
     {
       "id": 22,
-      "name": "Atlanta Duggen",
+      "studentName": "Atlanta Duggen",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "06/13/2021",
       "return_date": "05/28/2022",
@@ -522,7 +522,7 @@
     },
     {
       "id": 23,
-      "name": "De witt Eyes",
+      "studentName": "De witt Eyes",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "07/09/2021",
       "return_date": "07/04/2022",
@@ -531,7 +531,7 @@
     },
     {
       "id": 24,
-      "name": "Brietta Conew",
+      "studentName": "Brietta Conew",
       "school": "Stanford University",
       "borrow_date": "02/17/2021",
       "return_date": "09/28/2022",
@@ -540,7 +540,7 @@
     },
     {
       "id": 25,
-      "name": "Burg Abramowsky",
+      "studentName": "Burg Abramowsky",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "09/30/2021",
       "return_date": "08/21/2022",
@@ -549,7 +549,7 @@
     },
     {
       "id": 26,
-      "name": "Ginger Pruvost",
+      "studentName": "Ginger Pruvost",
       "school": "University of Cambridge",
       "borrow_date": "09/27/2021",
       "return_date": "05/15/2022",
@@ -558,7 +558,7 @@
     },
     {
       "id": 27,
-      "name": "Lee Fetherston",
+      "studentName": "Lee Fetherston",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "06/10/2021",
       "return_date": "05/02/2022",
@@ -567,7 +567,7 @@
     },
     {
       "id": 28,
-      "name": "Thekla Kittredge",
+      "studentName": "Thekla Kittredge",
       "school": "University of Oxford",
       "borrow_date": "05/28/2021",
       "return_date": "05/28/2022",
@@ -576,7 +576,7 @@
     },
     {
       "id": 29,
-      "name": "Lance Michiel",
+      "studentName": "Lance Michiel",
       "school": "University of Oxford",
       "borrow_date": "10/11/2021",
       "return_date": "07/08/2022",
@@ -585,7 +585,7 @@
     },
     {
       "id": 30,
-      "name": "Crystie Measures",
+      "studentName": "Crystie Measures",
       "school": "Harvard University",
       "borrow_date": "03/19/2021",
       "return_date": "07/31/2022",
@@ -594,7 +594,7 @@
     },
     {
       "id": 31,
-      "name": "Teresita Krysztowczyk",
+      "studentName": "Teresita Krysztowczyk",
       "school": "Imperial College London",
       "borrow_date": "01/15/2022",
       "return_date": "09/30/2022",
@@ -603,7 +603,7 @@
     },
     {
       "id": 32,
-      "name": "Marybelle Tallet",
+      "studentName": "Marybelle Tallet",
       "school": "University of Oxford",
       "borrow_date": "03/22/2021",
       "return_date": "10/05/2022",
@@ -612,7 +612,7 @@
     },
     {
       "id": 33,
-      "name": "Lammond Jursch",
+      "studentName": "Lammond Jursch",
       "school": "Massachusetts Institute of Technology",
       "borrow_date": "02/03/2021",
       "return_date": "09/17/2022",
@@ -621,7 +621,7 @@
     },
     {
       "id": 34,
-      "name": "Sibyl Cleland",
+      "studentName": "Sibyl Cleland",
       "school": "University of Oxford",
       "borrow_date": "12/17/2021",
       "return_date": "07/26/2022",
@@ -630,7 +630,7 @@
     },
     {
       "id": 35,
-      "name": "Lora MacKimm",
+      "studentName": "Lora MacKimm",
       "school": "University of Oxford",
       "borrow_date": "01/23/2021",
       "return_date": "06/14/2022",
@@ -639,7 +639,7 @@
     },
     {
       "id": 36,
-      "name": "Ryan Bettison",
+      "studentName": "Ryan Bettison",
       "school": "Stanford University",
       "borrow_date": "12/17/2021",
       "return_date": "04/13/2022",
@@ -648,7 +648,7 @@
     },
     {
       "id": 37,
-      "name": "Lexine Kovacs",
+      "studentName": "Lexine Kovacs",
       "school": "Stanford University",
       "borrow_date": "01/27/2022",
       "return_date": "09/12/2022",
@@ -657,7 +657,7 @@
     },
     {
       "id": 38,
-      "name": "Rubin Buckenhill",
+      "studentName": "Rubin Buckenhill",
       "school": "Harvard University",
       "borrow_date": "02/10/2021",
       "return_date": "09/28/2022",
@@ -666,7 +666,7 @@
     },
     {
       "id": 39,
-      "name": "Morey Kenafaque",
+      "studentName": "Morey Kenafaque",
       "school": "University of Cambridge",
       "borrow_date": "11/05/2021",
       "return_date": "05/01/2022",
@@ -675,7 +675,7 @@
     },
     {
       "id": 40,
-      "name": "Babette Tatem",
+      "studentName": "Babette Tatem",
       "school": "University of Cambridge",
       "borrow_date": "03/28/2022",
       "return_date": "09/22/2022",
@@ -683,7 +683,7 @@
       "book": "Seabiscuit: An American Legend"
     },
     {
-      "name": "Văn Nguyễn",
+      "studentName": "Văn Nguyễn",
       "school": "Stanford University",
       "book": "To Kill a Mockingbird",
       "borrow_date": "09/29/2022",
@@ -692,7 +692,7 @@
       "id": 41
     },
     {
-      "name": "Gordon Yerborn",
+      "studentName": "Gordon Yerborn",
       "school": "University of Cambridge",
       "book": "What If?",
       "borrow_date": "10/16/2022",
@@ -701,7 +701,7 @@
       "id": 42
     },
     {
-      "name": "Doe Boik",
+      "studentName": "Doe Boik",
       "school": "Stanford University",
       "book": "Decision in Normandy",
       "borrow_date": "10/16/2022",
@@ -710,7 +710,7 @@
       "id": 44
     },
     {
-      "name": "Văn Nguyễn",
+      "studentName": "Văn Nguyễn",
       "school": "University of Oxford",
       "book": "The Kitchen God's Wife",
       "borrow_date": "2022-10-16",
@@ -719,7 +719,7 @@
       "id": 45
     },
     {
-      "name": "Sib Miell",
+      "studentName": "Sib Miell",
       "school": "Stanford University",
       "book": "Flu: The Great Influenza Pandemic of 1918",
       "borrow_date": "2022-10-16",
@@ -728,7 +728,7 @@
       "id": 47
     },
     {
-      "name": "Weylin Shipperbottom",
+      "studentName": "Weylin Shipperbottom",
       "school": "University of Cambridge",
       "book": "Flu: The Great Influenza Pandemic of 1918",
       "borrow_date": "2022-10-16",
@@ -1168,7 +1168,8 @@
       "imageS": "http://images.amazon.com/images/P/0375406328.01.THUMBZZZ.jpg",
       "imageM": "http://images.amazon.com/images/P/0375406328.01.MZZZZZZZ.jpg",
       "imageL": "http://images.amazon.com/images/P/0375406328.01.LZZZZZZZ.jpg",
-      "quantity": "16"
+      "quantity": "16",
+      "publicYear": "200"
     },
     {
       "id": 38,
@@ -1202,15 +1203,6 @@
       "publisher": "Ha noi",
       "quantity": "16",
       "id": 40
-    },
-    {
-      "isbn": "22223",
-      "title": "Rung Than Khoc3333",
-      "author": "Thuc Linh",
-      "publishedYear": "1993",
-      "publisher": "Ha noi",
-      "quantity": "15",
-      "id": 41
     }
   ],
   "university": [
@@ -1225,21 +1217,21 @@
     {
       "username": "admin@gmail.com",
       "password": "letmein",
-      "name": "Selena",
+      "studentName": "Selena",
       "role": "admin",
       "img": "https://kynguyenlamdep.com/wp-content/uploads/2022/06/co-gai-voi-nu-cuoi-toa-nang-700x872.jpg"
     },
     {
       "username": "manager1@gmail.com",
       "password": "letmein",
-      "name": "Lia Kim",
+      "studentName": "Lia Kim",
       "role": "manager",
       "img": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/hinh-anh-gai-xinh-de-thuong-nhat-1-600x600.jpg"
     },
     {
       "username": "manager2@gmail.com",
       "password": "letmein",
-      "name": "Wanda",
+      "studentName": "Wanda",
       "role": "manager",
       "img": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/anh-gai-xinh-de-thuong-dang-yeu-439x600.jpg"
     }
