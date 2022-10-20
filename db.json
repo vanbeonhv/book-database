@@ -1147,31 +1147,6 @@
       "quantity": 12
     },
     {
-      "id": 36,
-      "isbn": "3442446937",
-      "title": "Tage der Unschuld.",
-      "author": "Richard North Patterson",
-      "publishedYear": 2000,
-      "publisher": "Goldmann",
-      "imageS": "http://images.amazon.com/images/P/3442446937.01.THUMBZZZ.jpg",
-      "imageM": "http://images.amazon.com/images/P/3442446937.01.MZZZZZZZ.jpg",
-      "imageL": "http://images.amazon.com/images/P/3442446937.01.LZZZZZZZ.jpg",
-      "quantity": 12
-    },
-    {
-      "id": 37,
-      "isbn": "375406328",
-      "title": "Lying Awake",
-      "author": "Mark Salzman",
-      "publishedYear": 2000,
-      "publisher": "Alfred A. Knopf",
-      "imageS": "http://images.amazon.com/images/P/0375406328.01.THUMBZZZ.jpg",
-      "imageM": "http://images.amazon.com/images/P/0375406328.01.MZZZZZZZ.jpg",
-      "imageL": "http://images.amazon.com/images/P/0375406328.01.LZZZZZZZ.jpg",
-      "quantity": "16",
-      "publicYear": "200"
-    },
-    {
       "id": 38,
       "isbn": "446310786",
       "title": "To Kill a Mockingbird",
@@ -1203,6 +1178,26 @@
       "publisher": "Ha noi",
       "quantity": "16",
       "id": 40
+    },
+    {
+      "isbn": "222233333",
+      "title": "House design",
+      "author": "Thuc Linh",
+      "publicYear": "202",
+      "publisher": "NewYork Time",
+      "quantity": "21",
+      "publishedYear": "2022",
+      "id": 41
+    },
+    {
+      "isbn": "2222355533",
+      "title": "3D Models",
+      "author": "Ha noi",
+      "publicYear": "",
+      "publisher": "NewYork Time",
+      "quantity": "15",
+      "publishedYear": "2015",
+      "id": 42
     }
   ],
   "university": [
@@ -1217,21 +1212,21 @@
     {
       "username": "admin@gmail.com",
       "password": "letmein",
-      "studentName": "Selena",
+      "name": "Selena",
       "role": "admin",
       "img": "https://kynguyenlamdep.com/wp-content/uploads/2022/06/co-gai-voi-nu-cuoi-toa-nang-700x872.jpg"
     },
     {
       "username": "manager1@gmail.com",
       "password": "letmein",
-      "studentName": "Lia Kim",
+      "name": "Lia Kim",
       "role": "manager",
       "img": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/hinh-anh-gai-xinh-de-thuong-nhat-1-600x600.jpg"
     },
     {
       "username": "manager2@gmail.com",
       "password": "letmein",
-      "studentName": "Wanda",
+      "name": "Wanda",
       "role": "manager",
       "img": "https://toigingiuvedep.vn/wp-content/uploads/2021/06/anh-gai-xinh-de-thuong-dang-yeu-439x600.jpg"
     }
