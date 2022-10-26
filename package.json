@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon main.js"
+    "start": "nodemon --optimize_for_size --max_old_space_size=2560 dist/main.js"
   },
   "author": "",
   "license": "ISC",
